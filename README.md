@@ -11,7 +11,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 :point_right: I am a continuous learner  
 :point_right: I think understanding is power 
 
-## tools and technologies I use the most
+## tools and technologies (most used)
 - [Angular 2+](https://angular.io/)
 - [Spring, Spring boot](https://spring.io/)
 - [Docker, Docker Compose](https://www.docker.com/)
@@ -19,7 +19,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Concourse CI](https://concourse-ci.org/)
 - [Linux and Unix](https://kernel.org/)
 
-## Social links
+## social links
 <p align="left">
   <a href="https://dev.to/trash07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trash07" height="30" width="40" /></a>
   <a href="https://twitter.com/lkpeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lkpeto" height="30" width="40" /></a>
