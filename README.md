@@ -18,6 +18,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Harshicorp Terraform](https://developer.hashicorp.com/terraform)
 - [Concourse CI](https://concourse-ci.org/)
 - [Linux and Unix](https://kernel.org/)
+- [RabbitMQ](https://www.rabbitmq.com/)
 
 ## social links
 <p align="left">
