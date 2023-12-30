@@ -18,3 +18,13 @@ I am in building, operating microservices, blogging at [tutoriel.dev](https://tu
 - [Harshicorp Terraform](https://developer.hashicorp.com/terraform)
 - [Concourse CI](https://concourse-ci.org/)
 - [Linux and Unix](https://kernel.org/)
+
+## Social links
+<p align="left">
+  <a href="https://www.linkedin.com/in/lkpeto/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+  <a href="https://twitter.com/lkpeto">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Flkpeto&logo=x&label=lkpeto">
+  </a>
+</p>
