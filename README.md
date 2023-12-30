@@ -1,5 +1,5 @@
 # Hi :wave: I am Lonv'ha 
-I am in building, operating microservices, blogging at [tutoriel.dev](https://tutoriel.dev) and contributing to **opensource** on free time.
+Currently contributing to **opensource**, building, operating microservices, blogging at [tutoriel.dev](https://tutoriel.dev) on free time.
 
 > _I hear and I forget. I see and I remember. I do and I understand._  
 > **_Conficius (551 - 479 BC)_**
