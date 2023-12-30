@@ -21,13 +21,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 
 ## Social links
 <p align="left">
-  <a href="https://www.linkedin.com/in/lkpeto/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-  </a>
-  <a href="https://twitter.com/lkpeto">
-    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Flkpeto&logo=x&label=lkpeto">
-  </a>
-  <a>
-    <img src="https://img.shields.io/twitter/url?url=http%3A%2F%2Ftutoriel.dev&logo=gmail&label=%40mmkpeto5">
-  </a>
+  <a href="https://dev.to/trash07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trash07" height="30" width="40" /></a>
+  <a href="https://twitter.com/lkpeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lkpeto" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lkpeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lkpeto" height="30" width="40" /></a>
 </p>
