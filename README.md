@@ -15,6 +15,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Angular 2+](https://angular.io/)
 - [Spring, Spring boot](https://spring.io/)
 - [Docker, Docker Compose](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
 - [Harshicorp Terraform](https://developer.hashicorp.com/terraform)
 - [Concourse CI](https://concourse-ci.org/)
 - [Linux and Unix](https://kernel.org/)
