@@ -21,6 +21,14 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Linux and Unix](https://kernel.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 
+## 2024 certification objectives
+- [ ] HashiCorp Certified: Terraform Associate (003)
+- [ ] Certified Jenkins Engineer (CJE)
+- [ ] Certified Kubernetes Application Developer (CKAD)
+- [ ] Red Hat Certified System Administrator (RHCSA)
+- [ ] Oracle Certfied Java SE 17 Developer
+- [ ] Google Cloud Professional Cloud Architect
+
 ## social links
 <p align="left">
   <a href="https://dev.to/trash07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trash07" height="30" width="40" /></a>
