@@ -21,7 +21,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Linux and Unix](https://kernel.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 
-## Planned certification path for 2024
+## 2024 certification objectives
 - [ ] HashiCorp Certified: Terraform Associate (003)
 - [ ] Certified Jenkins Engineer (CJE)
 - [ ] Certified Kubernetes Application Developer (CKAD)
