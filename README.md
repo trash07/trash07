@@ -22,7 +22,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [RabbitMQ](https://www.rabbitmq.com/)
 
 ## 2024 certification objectives
-- [ ] HashiCorp Certified: Terraform Associate (003)
+- [x] [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/345140e4-5a1c-46f9-b8fc-ccb68e85be32/linked_in_profile)
 - [ ] Certified Jenkins Engineer (CJE)
 - [ ] Certified Kubernetes Application Developer (CKAD)
 - [ ] Red Hat Certified System Administrator (RHCSA)
