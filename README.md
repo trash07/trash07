@@ -23,6 +23,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 
 ## 2024 certification objectives
 - [x] [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/345140e4-5a1c-46f9-b8fc-ccb68e85be32/linked_in_profile)
+- [x] [JSNAD: OpenJS Node.js Application Developer](https://www.credly.com/badges/945b51e5-a73e-46bd-83bb-a58c6a2d2d5d/linked_in)
 - [ ] Certified Jenkins Engineer (CJE)
 - [ ] Certified Kubernetes Application Developer (CKAD)
 - [ ] Red Hat Certified System Administrator (RHCSA)
