@@ -23,6 +23,11 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Bash 4](https://www.gnu.org/software/bash/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 
+## some posts (when free)
+- [:seedling: medium.com/@lkpeto](https://medium.com/@lkpeto)
+- [:seedling: tutoriel.dev](https://tutoriel.dev)
+- [:seedling: dev.to](https://dev.to/trash07)
+
 ## certifications
 - [x] [HashiCorp Certified: Terraform Associate (003), 2024](https://www.credly.com/badges/345140e4-5a1c-46f9-b8fc-ccb68e85be32/linked_in_profile)
 - [x] [JSNAD: OpenJS Node.js Application Developer, 2024](https://www.credly.com/badges/945b51e5-a73e-46bd-83bb-a58c6a2d2d5d/linked_in)
