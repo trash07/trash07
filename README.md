@@ -5,11 +5,12 @@ Currently contributing to **opensource**, building, operating microservices, blo
 > **_Conficius (551 - 479 BC)_**
 
 ## ... in five points
-:point_right: I like writing algorithms to solve challenging software problems   
-:point_right: I have experience in building and operating microservices  
-:point_right: I am curious about how great tools are built  
-:point_right: I am a continuous learner  
-:point_right: I think understanding is freedom
+:point_right: I like writing algorithms to solve challenging software problems,  
+:point_right: I have experience in building and operating microservices,  
+:point_right: I am curious about how great tools are built,
+:point_right: I am a continuous learner,
+:point_right: I think understanding is freedom,
+:point_right: I am problem solver.
 
 ## tools and technologies (most used)
 - [Angular 2+](https://angular.io/)
@@ -18,15 +19,20 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Kubernetes](https://kubernetes.io/)
 - [Harshicorp Terraform](https://developer.hashicorp.com/terraform)
 - [Concourse CI](https://concourse-ci.org/)
-- [Linux and Unix](https://kernel.org/)
+- [Linux RHEL9](https://www.redhat.com/en)
+- [Bash 4](https://www.gnu.org/software/bash/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 
-## 2024 certification objectives
-- [x] [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/345140e4-5a1c-46f9-b8fc-ccb68e85be32/linked_in_profile)
-- [x] [JSNAD: OpenJS Node.js Application Developer](https://www.credly.com/badges/945b51e5-a73e-46bd-83bb-a58c6a2d2d5d/linked_in)
-- [ ] Certified Jenkins Engineer (CJE)
-- [ ] Certified Kubernetes Application Developer (CKAD)
+## certifications
+- [x] [HashiCorp Certified: Terraform Associate (003), 2024](https://www.credly.com/badges/345140e4-5a1c-46f9-b8fc-ccb68e85be32/linked_in_profile)
+- [x] [JSNAD: OpenJS Node.js Application Developer, 2024](https://www.credly.com/badges/945b51e5-a73e-46bd-83bb-a58c6a2d2d5d/linked_in)
+
+## 2025 certification objectives
 - [ ] Red Hat Certified System Administrator (RHCSA)
+- [ ] Red Hat Certified Engineer
+- [ ] Certified Kubernetes Application Developer (CKAD)
+- [ ] Prometheus Certified, associate (PSA)
+- [ ] Certified Jenkins Engineer (CJE)
 - [ ] Oracle Certfied Java SE 17 Developer
 - [ ] Google Cloud Professional Cloud Architect
 
