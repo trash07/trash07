@@ -23,7 +23,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [Bash 4](https://www.gnu.org/software/bash/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 
-## posts
+## some posts (when free)
 - [:seedling: medium.com/@lkpeto](https://medium.com/@lkpeto)
 - [:seedling: tutoriel.dev](https://tutoriel.dev)
 - [:seedling: dev.to](https://dev.to/trash07)
