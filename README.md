@@ -24,9 +24,10 @@ Currently contributing to **opensource**, building, operating microservices, blo
 - [RabbitMQ](https://www.rabbitmq.com/)
 
 ## some posts (when free)
-- [:seedling: medium.com/@lkpeto](https://medium.com/@lkpeto)
-- [:seedling: tutoriel.dev](https://tutoriel.dev)
-- [:seedling: dev.to](https://dev.to/trash07)
+- :microscope: [JavaScript Asynchrone](https://www.linkedin.com/pulse/javascript-asynchrone-lonv-ha-kpeto-qnmhe/)
+- :seedling: [medium.com/@lkpeto](https://medium.com/@lkpeto)
+- :seedling: [tutoriel.dev](https://tutoriel.dev)
+- :seedling: [dev.to](https://dev.to/trash07)
 
 ## certifications
 - [x] [HashiCorp Certified: Terraform Associate (003), 2024](https://www.credly.com/badges/345140e4-5a1c-46f9-b8fc-ccb68e85be32/linked_in_profile)
