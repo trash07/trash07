@@ -4,13 +4,13 @@ Currently contributing to **opensource**, building, operating microservices, blo
 > _I hear and I forget. I see and I remember. I do and I understand._  
 > **_Conficius (551 - 479 BC)_**
 
-## ... in five points
+## ... in six points
 :point_right: I like writing algorithms to solve challenging software problems,  
 :point_right: I have experience in building and operating microservices,  
-:point_right: I am curious about how great tools are built,
-:point_right: I am a continuous learner,
-:point_right: I think understanding is freedom,
-:point_right: I am problem solver.
+:point_right: I am curious about how great tools are built,  
+:point_right: I am a continuous learner,  
+:point_right: I think understanding is freedom,  
+:point_right: I am problem solver.  
 
 ## tools and technologies (most used)
 - [Angular 2+](https://angular.io/)
