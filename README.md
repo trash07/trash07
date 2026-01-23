@@ -32,7 +32,7 @@ Currently contributing to **opensource**, building, operating microservices, blo
 ## certifications
 - [x] [HashiCorp Certified: Terraform Associate (003), 2024](https://www.credly.com/badges/345140e4-5a1c-46f9-b8fc-ccb68e85be32/linked_in_profile)
 - [x] [JSNAD: OpenJS Node.js Application Developer, 2024](https://www.credly.com/badges/945b51e5-a73e-46bd-83bb-a58c6a2d2d5d/linked_in)
-- [ ] [Red Hat Certified System Administrator (RHCSA), 2026](https://www.credly.com/badges/3c85cb95-dd38-4e2f-b961-17677b71ee99)
+- [x] [Red Hat Certified System Administrator (RHCSA), 2026](https://www.credly.com/badges/3c85cb95-dd38-4e2f-b961-17677b71ee99)
 
 ## 2026 certification objectives
 - [ ] Red Hat Certified Engineer
